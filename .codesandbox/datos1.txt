@@ -1,0 +1,16 @@
+hamburquesa 0
+hamburquesa 0
+pola 8
+hamburquesa 0
+hamburquesa 0
+hamburquesa 0
+hamburquesa 0
+pola 0
+pola 0
+pola 0
+pola 0
+pola 0
+pola 0
+pola 0
+pola 2
+fin -1

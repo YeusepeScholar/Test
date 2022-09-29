@@ -1,0 +1,12 @@
+salchipapa 0
+salchipapa 0
+jugo 0
+jugo 6
+salchipapa 0
+salchipapa 0
+salchipapa 0
+jugo 0
+jugo 0
+jugo 0
+jugo 0
+fin -1
